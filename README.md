@@ -7,12 +7,12 @@ now drones have seen significant advancements and are now multifunctional instru
 several industries, such as agriculture, surveillance in both air and underwater, filmmaking, 
 disaster response, and other fields. These UAUV vehicles are outfitted with various sensors, 
 cameras, and other specialised equipment, allowing them to acquire detailed pictures, monitor 
-changes in the environment, and perform particular tasks with minimum human involvement. 
+changes in the environment, and perform particular tasks with minimum human involvement.
+
 In this project, first, we tried to control the drone in aerial environments using different 
 controllers(PID, SMC, Fuzzy Logic SMC) and compared their performances based on the results. 
 We have tried to make an 8-shape trajectory which is crucial in drone navigation. The project uses 
 Matlab/Simulink, incorporating mathematical modelling and simulations to analyze drone 
-behaviour. After this, we have tried to make a PID controller for UAUV, i.e. for both aerial and 
-water environments with transition state, which is a highly non-linear dynamic system.
+behaviour. After this, we modelled it in Simscape for physical simulations.
 
 ![Drone_img](https://github.com/23Nilesh/UAV_Drone/assets/90020325/cb130d0f-72c9-461a-92e4-dfec3f05da60)
