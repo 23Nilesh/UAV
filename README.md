@@ -1,4 +1,4 @@
-# UAUV(Unmanned Aerial-UnderWaterv Vehicle) or Amphibious Drone
+# UAUV(Unmanned Aerial-UnderWater Vehicle) or Amphibious Drone
 ## Attitude control of amphibious drone 
 Hybrid Drones, or Unmanned Aerial and Underwater Vehicles (UAUVs), are aircraft that do not 
 require a human pilot on board and are controlled either by humans from a distant location or by 
